@@ -1,1 +1,0 @@
-![cc block diagram](https://user-images.githubusercontent.com/12868848/34475358-b12ca994-efce-11e7-8185-be095b2512ba.PNG)
